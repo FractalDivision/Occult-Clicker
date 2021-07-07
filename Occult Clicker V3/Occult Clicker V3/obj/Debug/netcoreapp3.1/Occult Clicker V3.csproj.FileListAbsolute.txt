@@ -1,0 +1,17 @@
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult_Clicker_V3.Form1.resources
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult_Clicker_V3.Form2.resources
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult_Clicker_V3.Properties.Resources.resources
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult Clicker V3.csproj.GenerateResource.cache
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult Clicker V3.AssemblyInfoInputs.cache
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult Clicker V3.AssemblyInfo.cs
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult Clicker V3.csproj.CoreCompileInputs.cache
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\bin\Debug\netcoreapp3.1\Occult Clicker V3.exe
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\bin\Debug\netcoreapp3.1\Occult Clicker V3.deps.json
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\bin\Debug\netcoreapp3.1\Occult Clicker V3.runtimeconfig.json
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\bin\Debug\netcoreapp3.1\Occult Clicker V3.runtimeconfig.dev.json
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\bin\Debug\netcoreapp3.1\Occult Clicker V3.dll
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\bin\Debug\netcoreapp3.1\Occult Clicker V3.pdb
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult Clicker V3.dll
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult Clicker V3.pdb
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult Clicker V3.genruntimeconfig.cache
+C:\Users\Lucy\source\repos\Occult Clicker V3\Occult Clicker V3\obj\Debug\netcoreapp3.1\Occult Clicker V3.csprojAssemblyReference.cache
